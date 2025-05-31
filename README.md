@@ -9,16 +9,16 @@ The OWASP Vulnerability Scanner is a lightweight web-based tool designed to iden
 -beautifulsoup4
 -lxml
 
-## To Run the Project
+# To Run the Project
 
-#  Clone the Repository
-# Install Python requirements
+## 1)Clone the Repository
+## 2)Install Python requirements
 pip install -r requirements.txt
 
-# Start backend
+# 3)Start backend
 cd backend
 python app.py
 
-# Start the Frontend
+# 4)Start the Frontend
 open index.html in a browser
 
