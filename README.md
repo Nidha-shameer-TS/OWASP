@@ -22,9 +22,9 @@ A lightweight 🔍 web-based tool to detect common vulnerabilities in HTML and J
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-### 🔍 Sample Vulnerability Scan
+🔍 Sample Vulnerability Scan
 ![Scan Example](image/scanning.png)
 
 ## 🛠️ Tech Stack
