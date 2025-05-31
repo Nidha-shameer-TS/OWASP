@@ -69,7 +69,7 @@ Navigate to the backend directory and run the Flask server:
 cd backend
 python app.py
 ```
-### The backend will start at http://localhost:5000.
+ The backend will start at http://localhost:5000.
 
 ### 4️⃣ Start the Frontend
 
