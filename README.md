@@ -27,12 +27,6 @@ A lightweight 🔍 web-based tool to detect common vulnerabilities in HTML and J
 ### 🔍 Sample Vulnerability Scan
 ![Scan Example](image/scanning.png)
 
-
-> Paste your frontend code and click "Scan" to get an instant security report.
-
-![Demo GIF or Screenshot Placeholder](https://via.placeholder.com/800x400?text=Project+Demo+Screenshot)
-
----
 ## 🛠️ Tech Stack
 
 [![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20JavaScript-blue)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
@@ -85,6 +79,6 @@ python app.py
 
 - Or you can drag and drop the file into your browser window.
 
-### 📌 Note: Make sure the backend is running before you test the frontend scanner!
+📌 Note: Make sure the backend is running before you test the frontend scanner!
 
 
