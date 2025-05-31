@@ -29,6 +29,12 @@ A lightweight 🔍 web-based tool to detect common vulnerabilities in HTML and J
 ![Demo GIF or Screenshot Placeholder](https://via.placeholder.com/800x400?text=Project+Demo+Screenshot)
 
 ---
+## 🛠️ Tech Stack
+
+[![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20JavaScript-blue)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+[![Backend](https://img.shields.io/badge/Backend-Python%20(Flask)-blueviolet)](https://flask.palletsprojects.com/)  
+[![Security](https://img.shields.io/badge/Security-Static%20Analysis%20%7C%20Regex%20%7C%20BeautifulSoup-red)](https://www.crummy.com/software/BeautifulSoup/)  
+[![Libraries](https://img.shields.io/badge/Libraries-Flask%20%7C%20Flask--CORS%20%7C%20bs4%20%7C%20lxml-green)](https://pypi.org/project/Flask-Cors/)
 
 ## 📦 Requirements
 
@@ -75,11 +81,6 @@ python app.py
 
 - Or you can drag and drop the file into your browser window.
 
-# 📌 Note: Make sure the backend is running before you test the frontend scanner!
+### 📌 Note: Make sure the backend is running before you test the frontend scanner!
 
-## 🛠️ Tech Stack
 
-[![Frontend](https://img.shields.io/badge/Frontend-HTML%20%7C%20JavaScript-blue)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![Backend](https://img.shields.io/badge/Backend-Python%20(Flask)-blueviolet)](https://flask.palletsprojects.com/)  
-[![Security](https://img.shields.io/badge/Security-Static%20Analysis%20%7C%20Regex%20%7C%20BeautifulSoup-red)](https://www.crummy.com/software/BeautifulSoup/)  
-[![Libraries](https://img.shields.io/badge/Libraries-Flask%20%7C%20Flask--CORS%20%7C%20bs4%20%7C%20lxml-green)](https://pypi.org/project/Flask-Cors/)
