@@ -22,7 +22,11 @@ A lightweight 🔍 web-based tool to detect common vulnerabilities in HTML and J
 
 ---
 
-## 🖼️ Demo
+## 📸 Screenshots
+
+### 🔍 Sample Vulnerability Scan
+![Scan Example](image/scanning.png)
+
 
 > Paste your frontend code and click "Scan" to get an instant security report.
 
