@@ -22,3 +22,42 @@ python app.py
 ## 4)Start the Frontend
 open index.html in a browser
 
+
+# 🛡️ OWASP Vulnerability Scanner
+
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Made With Python](https://img.shields.io/badge/made%20with-Python-blue)
+
+A lightweight 🔍 web-based tool to detect common vulnerabilities in HTML and JavaScript code snippets, based on the **OWASP Top 10** security risks. This project helps developers and students identify issues like XSS, injection flaws, open CORS policies, and more — encouraging secure coding habits through real-time feedback.
+
+---
+
+## 🚀 Features
+
+- ✅ Detects common OWASP Top 10 issues:
+  - ❌ Cross-Site Scripting (XSS)
+  - ❌ Injection attacks (e.g., `eval`, SQL patterns)
+  - ❌ Open CORS policy
+  - ❌ Hardcoded credentials
+- 🧠 Uses static code analysis and pattern matching
+- 📄 Simple HTML/JS paste-and-scan interface
+- 📦 Built with Python Flask & BeautifulSoup
+
+---
+
+## 🖼️ Demo
+
+> Paste your frontend code and click "Scan" to get an instant security report.
+
+![Demo GIF or Screenshot Placeholder](https://via.placeholder.com/800x400?text=Project+Demo+Screenshot)
+
+---
+
+## 📦 Requirements
+
+Install the following dependencies before running:
+
+```bash
+pip install flask flask-cors beautifulsoup4 lxml
+
